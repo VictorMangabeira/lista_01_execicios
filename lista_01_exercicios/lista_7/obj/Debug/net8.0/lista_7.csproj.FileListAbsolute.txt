@@ -1,0 +1,15 @@
+C:\Users\victor.omangabeira\source\repos\lista_01_exercicios\lista_01_exercicios\lista_7\bin\Debug\net8.0\lista_7.exe
+C:\Users\victor.omangabeira\source\repos\lista_01_exercicios\lista_01_exercicios\lista_7\bin\Debug\net8.0\lista_7.deps.json
+C:\Users\victor.omangabeira\source\repos\lista_01_exercicios\lista_01_exercicios\lista_7\bin\Debug\net8.0\lista_7.runtimeconfig.json
+C:\Users\victor.omangabeira\source\repos\lista_01_exercicios\lista_01_exercicios\lista_7\bin\Debug\net8.0\lista_7.dll
+C:\Users\victor.omangabeira\source\repos\lista_01_exercicios\lista_01_exercicios\lista_7\bin\Debug\net8.0\lista_7.pdb
+C:\Users\victor.omangabeira\source\repos\lista_01_exercicios\lista_01_exercicios\lista_7\obj\Debug\net8.0\lista_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.omangabeira\source\repos\lista_01_exercicios\lista_01_exercicios\lista_7\obj\Debug\net8.0\lista_7.AssemblyInfoInputs.cache
+C:\Users\victor.omangabeira\source\repos\lista_01_exercicios\lista_01_exercicios\lista_7\obj\Debug\net8.0\lista_7.AssemblyInfo.cs
+C:\Users\victor.omangabeira\source\repos\lista_01_exercicios\lista_01_exercicios\lista_7\obj\Debug\net8.0\lista_7.csproj.CoreCompileInputs.cache
+C:\Users\victor.omangabeira\source\repos\lista_01_exercicios\lista_01_exercicios\lista_7\obj\Debug\net8.0\lista_7.sourcelink.json
+C:\Users\victor.omangabeira\source\repos\lista_01_exercicios\lista_01_exercicios\lista_7\obj\Debug\net8.0\lista_7.dll
+C:\Users\victor.omangabeira\source\repos\lista_01_exercicios\lista_01_exercicios\lista_7\obj\Debug\net8.0\refint\lista_7.dll
+C:\Users\victor.omangabeira\source\repos\lista_01_exercicios\lista_01_exercicios\lista_7\obj\Debug\net8.0\lista_7.pdb
+C:\Users\victor.omangabeira\source\repos\lista_01_exercicios\lista_01_exercicios\lista_7\obj\Debug\net8.0\lista_7.genruntimeconfig.cache
+C:\Users\victor.omangabeira\source\repos\lista_01_exercicios\lista_01_exercicios\lista_7\obj\Debug\net8.0\ref\lista_7.dll

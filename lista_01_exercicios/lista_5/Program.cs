@@ -9,3 +9,15 @@ Descrição: Desenvolva um programa que pergunte a idade de uma pessoa e determi
 Exemplo de saída: "Você é maior de idade." ou "Você é menor de idade".
 
    */
+
+Console.WriteLine("Qual sua idade? ");
+int num1 = int.Parse(Console.ReadLine());
+
+if (num1 > 18)
+{
+    Console.WriteLine("Você é maior de idade");
+}
+else
+{
+    Console.WriteLine("Você é menor de idade");
+}

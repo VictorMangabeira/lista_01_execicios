@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_01", "lista_01\lista_01.csproj", "{79DD49DA-BF77-48CD-8C9C-0EB51F737070}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_01", "lista_01\lista_01.csproj", "{79DD49DA-BF77-48CD-8C9C-0EB51F737070}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_02", "lista_02\lista_02.csproj", "{033E8C92-D834-491A-8296-04398AD365B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_02", "lista_02\lista_02.csproj", "{033E8C92-D834-491A-8296-04398AD365B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_3", "lista_3\lista_3.csproj", "{D7A431ED-EF8F-408E-8A0B-2A8113328170}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_3", "lista_3\lista_3.csproj", "{D7A431ED-EF8F-408E-8A0B-2A8113328170}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_4", "lista_4\lista_4.csproj", "{E10B7E52-92EE-4031-9F7F-CDF868A031FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_4", "lista_4\lista_4.csproj", "{E10B7E52-92EE-4031-9F7F-CDF868A031FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_5", "lista_5\lista_5.csproj", "{0EFDB546-620B-4790-8029-C858E7D715CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_6", "lista_6\lista_6.csproj", "{FF715928-AACA-4434-BAC3-9BA4BB80CD67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_6", "lista_6\lista_6.csproj", "{FF715928-AACA-4434-BAC3-9BA4BB80CD67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_7", "lista_7\lista_7.csproj", "{906CA839-921C-43BF-BA6D-9495D7DCC321}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_7", "lista_7\lista_7.csproj", "{906CA839-921C-43BF-BA6D-9495D7DCC321}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_8", "lista_8\lista_8.csproj", "{24708C06-99ED-4C28-A2C8-5A30DA17BA53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_8", "lista_8\lista_8.csproj", "{24708C06-99ED-4C28-A2C8-5A30DA17BA53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_9", "lista_9\lista_9.csproj", "{34192558-3831-4B45-A685-138B74BC0A9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_9", "lista_9\lista_9.csproj", "{34192558-3831-4B45-A685-138B74BC0A9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_10", "lista_10\lista_10.csproj", "{ABC6044C-201E-45F8-9019-30345C957BA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_10", "lista_10\lista_10.csproj", "{ABC6044C-201E-45F8-9019-30345C957BA6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_5", "lista_5\lista_5.csproj", "{55D77384-04EF-4B71-BFE8-306C31325D44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,10 +45,6 @@ Global
 		{E10B7E52-92EE-4031-9F7F-CDF868A031FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E10B7E52-92EE-4031-9F7F-CDF868A031FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E10B7E52-92EE-4031-9F7F-CDF868A031FC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0EFDB546-620B-4790-8029-C858E7D715CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0EFDB546-620B-4790-8029-C858E7D715CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0EFDB546-620B-4790-8029-C858E7D715CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0EFDB546-620B-4790-8029-C858E7D715CD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FF715928-AACA-4434-BAC3-9BA4BB80CD67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FF715928-AACA-4434-BAC3-9BA4BB80CD67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF715928-AACA-4434-BAC3-9BA4BB80CD67}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -69,6 +65,10 @@ Global
 		{ABC6044C-201E-45F8-9019-30345C957BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABC6044C-201E-45F8-9019-30345C957BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABC6044C-201E-45F8-9019-30345C957BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D77384-04EF-4B71-BFE8-306C31325D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D77384-04EF-4B71-BFE8-306C31325D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D77384-04EF-4B71-BFE8-306C31325D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D77384-04EF-4B71-BFE8-306C31325D44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

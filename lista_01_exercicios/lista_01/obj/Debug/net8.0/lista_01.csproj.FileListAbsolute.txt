@@ -12,3 +12,4 @@ C:\Users\victor.omangabeira\source\repos\lista_01_exercicios\lista_01_exercicios
 C:\Users\victor.omangabeira\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\obj\Debug\net8.0\lista_01.pdb
 C:\Users\victor.omangabeira\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\obj\Debug\net8.0\lista_01.genruntimeconfig.cache
 C:\Users\victor.omangabeira\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\obj\Debug\net8.0\ref\lista_01.dll
+C:\Users\victor.omangabeira\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01\obj\Debug\net8.0\lista_01.sourcelink.json

@@ -9,3 +9,16 @@ Descrição: Crie um programa que verifique se um número inserido pelo usuário
 Exemplo de saída: "O número está entre 1 e 100." ou "O número não está entre 1 e 100."
  
  */
+
+Console.WriteLine("Digite um número");
+double num1 = double.Parse(Console.ReadLine());
+
+
+if (num1 > 1 && num1 < 100)
+{
+    Console.WriteLine("O número está entre 1 e 100");
+}
+else
+{
+    Console.WriteLine("O número não esta entre 1 e 100");
+}

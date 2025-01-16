@@ -13,8 +13,13 @@ Exemplo de saída: "Aluno aprovado." ou "Aluno reprovado".
 Console.WriteLine("insira a pimeira nota: ");
 double nota1 = Double.Parse(Console.ReadLine());
 
-string situação
-    if (nota1 >= 6)
-    {
-    "Aprovado"
-    }
+
+    if ( nota1 >= 6)
+{
+    Console.WriteLine("Aprovado");
+}
+else if (nota1 < 6)
+{
+    Console.WriteLine("Reprovado");
+}
+
