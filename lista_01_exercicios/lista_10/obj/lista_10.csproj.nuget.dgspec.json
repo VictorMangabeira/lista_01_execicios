@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victor.omangabeira\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_10\\lista_10.csproj": {}
+    "C:\\Users\\victor.omangabeira\\Documents\\lista_01_execicios\\lista_01_exercicios\\lista_10\\lista_10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victor.omangabeira\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_10\\lista_10.csproj": {
+    "C:\\Users\\victor.omangabeira\\Documents\\lista_01_execicios\\lista_01_exercicios\\lista_10\\lista_10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor.omangabeira\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_10\\lista_10.csproj",
+        "projectUniqueName": "C:\\Users\\victor.omangabeira\\Documents\\lista_01_execicios\\lista_01_exercicios\\lista_10\\lista_10.csproj",
         "projectName": "lista_10",
-        "projectPath": "C:\\Users\\victor.omangabeira\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_10\\lista_10.csproj",
+        "projectPath": "C:\\Users\\victor.omangabeira\\Documents\\lista_01_execicios\\lista_01_exercicios\\lista_10\\lista_10.csproj",
         "packagesPath": "C:\\Users\\victor.omangabeira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor.omangabeira\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_10\\obj\\",
+        "outputPath": "C:\\Users\\victor.omangabeira\\Documents\\lista_01_execicios\\lista_01_exercicios\\lista_10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
